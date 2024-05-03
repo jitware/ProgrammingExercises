@@ -1,5 +1,5 @@
 # Cancellazione di caratteri duplicati
-Scrivere un metodo chiamato remove_duplicate, che dati in input un string s,
+Scrivere un metodo chiamato **remove_duplicate**, che dati in input un string s,
 cancella tutti i caractteri duplicati
 
 ### Esempio
