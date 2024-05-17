@@ -44,15 +44,16 @@ def nth_prime(n):
 def prime_factorization(n):
     result = deque()
     if is_prime(n):
-        print(n)
-        return
+        result.append(n)
+        return result
+
     while n % 2 == 0:
         result.append(2)
         n /= 2
-    for i in range(3, int(n/2), 2):
-        if n % i == 0 and is_prime(i):
-            while n % i == 0:
-                result.append(i)
-                n /= i
+    for i in range(3, int(n / 2), 2):
+        while n % i == 0:
+            result.append(i)
+            n /= i
         if n == 1: break
+
     return result
