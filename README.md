@@ -15,3 +15,6 @@ Fork the project and work with git to stay updated.
 - In the folder of each exercise or exam, you will find a markdown file named README.md with instructions.
 - If you want to share your solution to an exercise with the community, create a code file with your name in the corresponding 
 folder of the programming language and make a **PULL REQUEST** to the repository.
+
+> [!TIP]
+>  Be sure to join the [Telegram Group](https://t.me/+czW6N3Ei_gQ2NGFk)
