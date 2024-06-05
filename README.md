@@ -17,4 +17,4 @@ Fork the project and work with git to stay updated.
 folder of the programming language and make a **PULL REQUEST** to the repository.
 
 > [!TIP]
->  Assicurati di unirti anche al [gruppo Telegram](https://t.me/+czW6N3Ei_gQ2NGFk) 
+>  Be sure to join the [Telegram Group](https://t.me/+czW6N3Ei_gQ2NGFk)

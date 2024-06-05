@@ -17,4 +17,4 @@ Fa un fork al progetto e lavora con git per rimanere aggionarto.
 
 
 > [!TIP]
->  Be sure to join the [Telegram Group](https://t.me/+czW6N3Ei_gQ2NGFk) 
+>  Assicurati di unirti anche al [gruppo Telegram](https://t.me/+czW6N3Ei_gQ2NGFk) 
