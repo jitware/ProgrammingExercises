@@ -1,13 +1,17 @@
-# Esercizi di Programmazioni
-#### Comunità Jitware d'Italia
+[English 🇬🇧](README.md)
 
-### Esercizi di programmazione per migliorare la sua logica e imparare qualsiasi linguaggio di programmazione, con l'apoggio della comunità.
+[Italian 🇮🇹 ](README.it.md)
 
-## Importanti
-Abbiamo due cartelle: **Esercizi** e **Esami**, entrambi sono organizzati per categorie.
+# Programming Exercises
+#### Jitware Community of Italy
 
-## Istruzioni
-Fa un fork al progetto e lavora con git per rimanere aggionarto.
-- Nella cartella di ogni esercizio o esame troverà un file markdowm chiamato README.md con gli istruzioni
-- Se vuole condividere la sua soluzione di un esercizio con la community, crei un file di codice con il suo nome nella cartella corrispondente del linguaggio di programmazione ed esegua una **PULL REQUEST** al repository
+### Programming exercises to improve your logic and learn any programming language, with the support of the community.
+## Important
+We have two folders: **Exercises** and **Exams**, both organized by categories.
 
+## Instructions
+Fork the project and work with git to stay updated.
+
+- In the folder of each exercise or exam, you will find a markdown file named README.md with instructions.
+- If you want to share your solution to an exercise with the community, create a code file with your name in the corresponding 
+folder of the programming language and make a **PULL REQUEST** to the repository.
