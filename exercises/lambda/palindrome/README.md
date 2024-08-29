@@ -1,0 +1,1 @@
+Write a Java program to implement a lambda expression to check if a given string is a palindrome.
