@@ -37,6 +37,7 @@ Fa un fork al progetto e lavora con git per rimanere aggionarto.
   - [palindrome](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/palindrome)
   - [is_super_prime](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/is_super_prime)
   - [numberOfPaths](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/numberOfPaths)
+  - [knight_path](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/knight_path)
   - [largestIncreasingSubsequence](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/largestIncreasingSubsequence)
 
 
