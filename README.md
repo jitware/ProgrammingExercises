@@ -37,6 +37,7 @@ folder of the programming language and make a **PULL REQUEST** to the repository
     - [palindrome](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/palindrome)
     - [is_super_prime](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/is_super_prime)
     - [numberOfPaths](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/numberOfPaths)
+    - [N-Queens](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/nQueens)
     - [knight_path](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/knight_path)
     - [largestIncreasingSubsequence](https://github.com/jitware/ProgrammingExercises/tree/main/exercises/recursion/largestIncreasingSubsequence)
 
